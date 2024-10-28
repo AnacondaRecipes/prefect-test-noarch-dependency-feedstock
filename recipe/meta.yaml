@@ -5,7 +5,7 @@ source:
   path: ../src
 build:
   noarch: python
-  number: 2
+  number: 3
 about:
   home: https://github.com/AnacondaRecipes/prefect-test-noarch-dependency-feedstock
   license_file: LICENSE
